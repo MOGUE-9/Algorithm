@@ -1,3 +1,19 @@
+# folders
+/.vs
+.vs/
+/Debug
+Debug/
+/x64
+x64/
+/Release
+Release/
+
+
+#files
+*.sln
+*.vcxproj
+*.vcxproj.*
+
 # Prerequisites
 *.d
 
